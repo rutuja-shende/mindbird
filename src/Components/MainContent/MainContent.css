@@ -1,0 +1,55 @@
+
+.content-2{
+    margin: 5% 5% 5% 5% ;
+    text-align: center;
+}
+
+.out-container{
+    background-image: url("../Images/dove-solid.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5%;
+}
+
+.title-1{
+    text-align: center;
+}
+
+.img-p {
+    height: 45%;
+}
+
+.btn-1{
+    position: absolute;
+    border-radius: 20px;
+    top: 50%;
+    left:50%
+}
+
+.btn-1:hover{
+    opacity: 0.8;
+}
+
+.pot{
+    position: absolute;
+    z-index: 2;
+    left:30%;
+} 
+
+.story{
+    background-image: url("../Images/poetry3l.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    height: 50vh;
+    margin-bottom: 5%;
+    top:4%;
+}
+
+.posts{
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
